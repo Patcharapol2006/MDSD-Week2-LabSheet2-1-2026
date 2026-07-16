@@ -254,7 +254,8 @@ void main() {
 
 **ขั้นตอนที่ 7** กด Run และบันทึกผลลัพธ์ทั้งหมด
 
----![Uploading Screenshot_20260716_185445.jpg…]()
+---<img width="2456" height="1459" alt="Screenshot_20260716_185445" src="https://github.com/user-attachments/assets/9f889efd-c325-4739-9e8b-e314521650e5" />
+
 
 
 ### 🎯 โจทย์ฝึกทำ 1.1 — แก้ไขและเพิ่มเติมโค้ดด้วยตนเอง
